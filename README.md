@@ -1,4 +1,8 @@
 # HackerRank_CP
+
+# if anybody knows how to ignore output files (without extension) in git using gitignore please let me know... I have tried with .o and .exe but its not working as codes made in linux and the output files are not in any extension...
+
+
 This reposatory contains my solutions to all Hacker Rank Problem I have solved. 
 
 -> Programming language used is Cpp.
@@ -29,3 +33,4 @@ Note -> Many of the codes will not provide an output directly (in the editors in
       ** -> in main function the values are stored in result identifier... for a non-void returning function...
       
   -> if pasting the function in Hacker Rank Compiler, the previous steps are not required as it already takes input from file.
+ 
